@@ -408,7 +408,7 @@ do
             BorderSizePixel = 0;
             Size = UDim2.new(1, 0, 1, 0);
             ZIndex = 18;
-            Image = 'rbxassetid://4155801252';
+            Image = '';
             Parent = SatVibMapInner;
         });
 
@@ -1782,7 +1782,7 @@ do
             BackgroundTransparency = 1;
             Position = UDim2.new(1, -16, 0.5, 0);
             Size = UDim2.new(0, 12, 0, 12);
-            Image = 'http://www.roblox.com/asset/?id=6282522798';
+            Image = '';
             ZIndex = 7;
             Parent = DropdownInner;
         });
@@ -1840,8 +1840,8 @@ do
             ZIndex = 21;
             Parent = ListInner;
 
-            TopImage = 'rbxasset://textures/ui/Scroll/scroll-middle.png',
-            BottomImage = 'rbxasset://textures/ui/Scroll/scroll-middle.png',
+            TopImage = '',
+            BottomImage = '',
 
             ScrollBarThickness = 3,
             ScrollBarImageColor3 = Library.AccentColor, 
